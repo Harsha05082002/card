@@ -1,6 +1,6 @@
 import './App.css';
 import Card from './Cardapp/card'
-import Login from './login form/lf';
+import Login from './Login/login';
 
 
 function App() {
